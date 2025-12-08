@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Filicudi";
+    src: url("./Filicudi.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Headoh";
+    src: url("./Headoh.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "ITC Korinna Std";
+    src: url("./ITC-Korinna-Std-Bold.otf");
+    font-weight: 700;
+    font-style: normal;
+}
